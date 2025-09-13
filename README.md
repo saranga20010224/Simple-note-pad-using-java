@@ -1,16 +1,17 @@
-# Simple Notepad – Java Swing
+# Simple Notepad 
 
 This notepad app built using Java Swing supporting file operations, editing tools, an About dialog, and text color selection.
-## Setup Instructions
 
-2. **How to Run**
+We can run the app as below.
+
    - Open the `SimpleNotepad.java` file in IDE.
    - Compile and run:
+     ```
      javac SimpleNotepad.java
      java SimpleNotepad
+     ```
 
-3. **Database**
-   - This app saves and loads text files only, so no database is required.
+This app saves and loads text files only, so no database is required.
 
 ## Assumptions
 
